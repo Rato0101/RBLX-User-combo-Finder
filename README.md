@@ -1,3 +1,7 @@
+#DISCONTINUED MAY NOT WORK IN THE FUTURE!!!!!
+
+
+
 # RBLX-User-Combo-Finder
 
 This program allows you to retrieve bulk information about Roblox users from combo or text (TXT) files.
